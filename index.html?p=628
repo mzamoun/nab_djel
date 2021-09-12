@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="fr-FR" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Careers &#8211; Doris Group</title>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='https://maps.googleapis.com/' />
+<link rel='dns-prefetch' href='https://cdn.rawgit.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Doris Group &raquo; Flux" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Doris Group &raquo; Flux des commentaires" href="comments/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dorisgroup.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fullcalendar-css'  href='wp-content/plugins/wp-jobsearch/css/fullcalendar.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='wp-content/plugins/wp-jobsearch/css/fancybox.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-jobsearch-flaticon-css'  href='wp-content/plugins/wp-jobsearch/icon-picker/css/flaticon.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-jobsearch-font-awesome-css'  href='wp-content/plugins/wp-jobsearch/icon-picker/css/font-awesome.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-jobsearch-selectize-def-css'  href='wp-content/plugins/wp-jobsearch/css/selectize.default.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-jobsearch-css-css'  href='wp-content/plugins/wp-jobsearch/css/plugin.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jobsearch-color-style-css'  href='wp-content/plugins/wp-jobsearch/css/color.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jobsearch-morris-css'  href='wp-content/plugins/wp-jobsearch/css/morris.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='plugin-responsive-styles-css'  href='wp-content/plugins/wp-jobsearch/css/plugin-responsive.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='datetimepicker-style-css'  href='wp-content/plugins/wp-jobsearch/css/jquery.datetimepicker.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jobsearch-tag-it-css'  href='wp-content/plugins/wp-jobsearch/css/jquery.tagit.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nbcpf-intlTelInput-style-css'  href='wp-content/plugins/country-phone-field-contact-form-7/assets/css/intlTelInput.min.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='nbcpf-countryFlag-style-css'  href='wp-content/plugins/country-phone-field-contact-form-7/assets/css/countrySelect.min.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='gdpr-css'  href='wp-content/plugins/gdpr/assets/css/gdpr-public.css?ver=2.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-stars-css'  href='wp-content/plugins/wp-jobsearch/modules/reviews/css/fontawesome-stars.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jobsearch-reviews-css'  href='wp-content/plugins/wp-jobsearch/modules/reviews/css/reviews-style.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='dorislemon-style-css'  href='wp-content/themes/dorislemon/style.css?ver=4.9.9' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='dorislemon-ie-css'  href='https://www.dorisgroup.com/wp-content/themes/dorislemon/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='dorislemon-ie8-css'  href='https://www.dorisgroup.com/wp-content/themes/dorislemon/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='dorislemon-ie7-css'  href='https://www.dorisgroup.com/wp-content/themes/dorislemon/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='elementor-icons-css'  href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1555429746' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1555429746' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='wp-content/uploads/elementor/css/global.css?ver=1555429749' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-628-css'  href='wp-content/uploads/elementor/css/post-628.css?ver=1604480436' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='wp-content/plugins/wp-jobsearch/admin/css/jquery-ui.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=4.9.9' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/admin/js/jquery-ui.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/country-phone-field-contact-form-7/assets/js/intlTelInput.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='wp-content/plugins/country-phone-field-contact-form-7/assets/js/countrySelect.min.js?ver=4.9.9'></script>
+<script type='text/javascript'>
+		(function($) {
+			$(function() {
+				$(".wpcf7-countrytext").countrySelect({
+					
+				});
+				$(".wpcf7-phonetext").intlTelInput({
+					autoHideDialCode: false,
+					autoPlaceholder: "off",
+					nationalMode: false,
+					separateDialCode: false,
+					hiddenInput: "full_number",
+						
+				});
+			});
+		})(jQuery);
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var GDPR = {"ajaxurl":"https:\/\/www.dorisgroup.com\/wp-admin\/admin-ajax.php","logouturl":"","i18n":{"aborting":"Aborting","logging_out":"You are being logged out.","continue":"Continue","cancel":"Cancel","ok":"OK","close_account":"Close your account?","close_account_warning":"Your account will be closed and all data will be permanently deleted and cannot be recovered. Are you sure?","are_you_sure":"Are you sure?","policy_disagree":"By disagreeing you will no longer have access to our site and will be logged out."},"is_user_logged_in":"","refresh":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/gdpr/assets/js/gdpr-public.js?ver=2.1.0'></script>
+<script type='text/javascript' src='wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.9.2'></script>
+<script type='text/javascript' src='wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9.2'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.dorisgroup.com/wp-content/themes/dorislemon/assets/js/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.9" />
+<link rel="canonical" href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0" />
+<link rel='shortlink' href='index.html?p=628' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;format=xml" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"technique@lemon-interactive.fr"});//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57MJRTH');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->	<link href="https://fonts.googleapis.com/css?family=Fjalla+One|Roboto+Condensed:300,400,700|Roboto:300,400,500,700,900" rel="stylesheet">
+		    	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [{
+			"@type": "ListItem",
+			"position": 1,
+			"name": "Home",
+			"item": "https://www.dorisgroup.com" 
+		}
+		,{
+				"@type": "ListItem",
+				"position": 2,
+				"name": "Careers",
+				"item": "https://www.dorisgroup.com/careers/" 
+			}]	}
+	</script>
+	
+</head>
+
+<body class="page-template-default page page-id-628 page-parent group-blog elementor-default elementor-page elementor-page-628">
+
+
+<header id="header">
+	<div class="container">
+		<h1 class="logo">
+			<a href="index.html" rel="home">Doris</a>
+		</h1>
+		<!-- /.logo -->
+		<button type="button" class="navbar-toggle">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<!-- ./navbar-toggle -->
+					<nav class="nav">
+				<div class="menu-main-menu-container"><ul id="main-nav" class="menu"><li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-797"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252F&amp;_wpnonce=484">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252F&amp;_wpnonce=484">About Us</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2514"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Fshareholders%25">Shareholders</a></li>
+	<li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Fmanagement-te">Management team</a></li>
+	<li id="menu-item-800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-800"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Fhistory%252F&amp;_w">History</a></li>
+	<li id="menu-item-799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-799"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Four-values%252F">Our values</a></li>
+	<li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Fouraddedvalue">Our Added Value</a></li>
+	<li id="menu-item-1182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1182"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Four-added-val">Reports &#038; Brochures</a></li>
+</ul>
+</li>
+<li id="menu-item-759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-759"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252F&amp;_wpnonce=4841db67e0">Oil &#038; Gas</a>
+<ul class="sub-menu">
+	<li id="menu-item-781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-781"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252F&amp;_wpnonce=4841db67e0">Oil &#038; Gas</a></li>
+	<li id="menu-item-780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-780"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-conceptual-engi">Conceptual &#038; FEED</a></li>
+	<li id="menu-item-779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-detailed-engine">Detailed engineering</a></li>
+	<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-technical-assis">Technical assistance</a></li>
+	<li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-847"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-project-managem">Project management services</a></li>
+	<li id="menu-item-777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-asset-managemen">Asset Management</a></li>
+</ul>
+</li>
+<li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-758"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Frenewable%252F&amp;_wpnonce=4841db67e0">Renewables</a>
+<ul class="sub-menu">
+	<li id="menu-item-803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Frenewable%252F&amp;_wpnonce=4841db67e0">Renewables</a></li>
+	<li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Frenewable%252Frenewable-asset-manag">Renewables Activities</a></li>
+</ul>
+</li>
+<li id="menu-item-2812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2812"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Flow-carbon%252F&amp;_wpnonce=4841db67e0">Low carbon</a></li>
+<li id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-823"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252F&amp;_wpnonce=4841db67e0">Expertise</a>
+<ul class="sub-menu">
+	<li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252F&amp;_wpnonce=4841db67e0">Expertise</a></li>
+	<li id="menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-840"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fprocess-and-safety%252F">Process and Safety</a></li>
+	<li id="menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fproduction-equipment%25">Production Equipment</a></li>
+	<li id="menu-item-842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-842"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fstructures%252F&amp;_wpnonc">Structures</a></li>
+	<li id="menu-item-843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-843"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fsubsea-production%252F&amp;">Subsea production</a></li>
+	<li id="menu-item-839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-839"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fdesign-and-drafting%252">Design and drafting</a></li>
+	<li id="menu-item-1464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1464"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Finspection-maintenanc">Inspection, Maintenance &#038; Repair</a></li>
+	<li id="menu-item-1472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1472"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Ftransport-installatio">Transport &#038; Installation</a></li>
+	<li id="menu-item-1478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fconstruction-installa">Construction &#038; Installation Supervision</a></li>
+	<li id="menu-item-1538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1538"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fmodel-testing%252F&amp;_wpn">Model Testing</a></li>
+	<li id="menu-item-1539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1539"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fcoastal-engineering%252">Coastal Engineering</a></li>
+</ul>
+</li>
+<li id="menu-item-2816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2816"><a href="projet/projects/index.html">Projects</a></li>
+<li id="menu-item-515" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-515"><a href="category/news/index.html">News</a></li>
+<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fglobale-presence%252F&amp;_wpnonce=4841">Global presence</a></li>
+<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="index.html?p=405">Contact</a></li>
+<li id="menu-item-825" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-628 current_page_item menu-item-825"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Careers</a></li>
+</ul></div>			</nav>
+				<!-- /.nav -->
+	</div>
+</header>
+<!-- #header -->
+
+
+
+            <div class="page-cover" style="background-image: url('wp-content/uploads/2019/03/joint-our-team.gif');">
+                <div class="bg-opacity" style="opacity:0.2"></div>
+                <div class="container">
+                    <div class="breadcrumb">
+                                                                                    <ul>
+                            <li><a href="index.html">Home</a></li>
+                                                        <li><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Careers</a></li>
+                        </ul>
+                    </div>
+                                        <h1 class="has-badge-lg">Careers<br> <em></em></h1>
+                    <p></p>
+                </div>
+            </div>
+            <div id="main-elem" >
+                <div class="container">
+                    		<div data-elementor-type="post" data-elementor-id="628" class="elementor elementor-628" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-4a741ec8 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4a741ec8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-acf324a elementor-column elementor-col-100 elementor-top-column" data-id="acf324a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-61405423 green-title barre-title elementor-widget elementor-widget-heading" data-id="61405423" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Join our teams</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-cb48052 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="cb48052" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-433d62e elementor-column elementor-col-100 elementor-top-column" data-id="433d62e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-abbcca2 elementor-widget elementor-widget-image" data-id="abbcca2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="423" height="283" src="wp-content/uploads/2019/06/about-us-collaboration-community-2.jpg" class="attachment-large size-large" alt="" srcset="wp-content/uploads/2019/06/about-us-collaboration-community-2.jpg 423w, wp-content/uploads/2019/06/about-us-collaboration-community-2-90x60.jpg 90w, wp-content/uploads/2019/06/about-us-collaboration-community-2-365x244.jpg 365w" sizes="(max-width: 423px) 100vw, 423px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-07c5102 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="07c5102" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-860bb05 elementor-column elementor-col-100 elementor-top-column" data-id="860bb05" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d52fe2a elementor-widget elementor-widget-toggle" data-id="d52fe2a" data-element_type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-toggle" role="tablist">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2231" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-2231">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Ingénieur Structure acier débutant</a>
+					</div>
+					<div id="elementor-tab-content-2231" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2231"><p><span style="color: #124075;"><strong>Job Reference/&nbsp;DJO_0024</strong></span><br><span style="color: #124075;"> <strong>Region / Site: DORIS Headquarters, Paris, France </strong></span><br><span style="color: #124075;"> <strong>Contract Type:&nbsp;Full time | CDI</strong></span><br><span style="color: #124075;"> <strong>Rémuneration:&nbsp;</strong></span><strong style="color: #124075; font-size: 16px;">Selon profil et expérience</strong></p>
+<p><span style="color: #124075;"><strong>&nbsp;</strong></span></p>
+<p><span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">DORIS Engineering recherche un </span><b style="font-family: Roboto, sans-serif; font-size: 16px;">ingénieur débutant spécialisé en dimensionnement de structures en acier </b><span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">basé dans nos bureaux à </span><b style="font-family: Roboto, sans-serif; font-size: 16px;">Paris</b><span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">.</span></p>
+<p><span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">&nbsp;</span></p>
+<p></p>
+<p><strong>Job Description:</strong></p>
+<p><span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">Vous travaillerez sous la supervision d’un ingénieur lead expérimenté et serez notamment impliqué dans les activités suivantes:</span></p>
+<ul class="ul1">
+<li class="li2"><span class="s2" style="color: #000000;">Les études de faisabilité, de basic engineering ou de detailed engineering de structures en acier offshore et onshore en suivant les règlements et les normes en vigueur,</span></li>
+<li class="li2"><span class="s2" style="color: #000000;">Les analyses et le dimensionnement de structures en acier en accord avec les hypothèses et les méthodologies définies dans la design basis et la design brief,</span></li>
+<li class="li2"><span class="s2" style="color: #000000;">La rédaction des notes de calcul pour les conditions de service et les conditions temporaires, </span></li>
+<li class="li2"><span class="s2" style="color: #000000;">Le contrôle des plans de structures afin de s’assurer de la cohérence avec les résultats des différentes analyses effectuées.<br></span><span class="s2"><br></span></li>
+</ul>
+<p class="p1">Vous interviendrez sur des projets variés parmi les différents marchés couverts par DORIS Engineering : l’Oil &amp; Gas offshore et onshore, les Énergies Marines Renouvelables, le génie côtier et l’Industrie Spatiale.</p>
+<p class="p1">Ce poste présente des perspectives d’évolution professionnelle vers un poste d’ingénieur senior ou lead structure.<br><br></p>
+<p class="p1">
+</p><p><strong>Profil:</strong></p>
+<ul class="ul1">
+<li class="li1"><span class="s2">Diplôme d’ingénieur ou équivalent avec spécialisation en structure acier,</span></li>
+<li class="li1"><span class="s2">Une première expérience en conception de structures onshore / offshore sera appréciée,</span></li>
+<li class="li1"><span class="s2">La connaissance de logiciels de calcul de structure tels que SACS, SESAM, NSO ou équivalent est un plus,</span></li>
+<li class="li1"><span class="s2">Anglais courant &#8211; Bon écrit (incluant l’écriture de rapport) et communication verbale,</span></li>
+<li class="li2"><span class="s2">Mobilité requise en particulier pour la collaboration avec les filiales étrangères.<br><br></span></li>
+</ul>
+<p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully&nbsp;considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to&nbsp;personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em></p>
+<p><em>&nbsp;</em></p>
+<p><strong><a href="wp-content/uploads/2020/11/DJO_00024-Junior-Structural-Engineer-1.pdf">Download this vacancy in PDF</a></strong></p>
+<p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully&nbsp;considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to&nbsp;personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em></p>
+<p><em>&nbsp;</em></p>
+<h5><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener"><b>APPLY FOR JOB</b></a></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2232" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-2232">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Lead Instrumentation Engineer</a>
+					</div>
+					<div id="elementor-tab-content-2232" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-2232"><h6><span style="color: #124075;"><strong>Job Reference/ DJO_00035<br /></strong></span><span style="color: #124075;"><strong>Région / Site: </strong></span><strong style="color: #124075; font-size: 16px;">DORIS Headquarters, Paris, France</strong></h6><h6><b style="color: #124075;">Contract Type: </b><span style="color: #124075;"><b>Full time </b></span><b style="color: #124075;">| CDI</b><br /><span style="color: #124075;"><strong>Rémunération: According to profil and experience</strong></span></h6><h6><span style="color: #124075;"><strong> </strong></span><span style="color: #124075;"><strong> </strong></span></h6><p>At DORIS Engineering you will be joining a fast-moving and technically diverse environment. DORIS Engineering is unique and often takes engineering projects from feasibility to completion and beyond, developing innovative and optimized solutions for the Oil &amp; Gas industry and offshore renewable industry. We undertake an unusually wide range of work, offering variety, challenge and opportunities for original and innovative engineering that is tailored to the needs of each project.</p><p>We currently have an opportunity for a <b>Lead Instrumentation Engineer </b>based in our Paris Headquarters Office.</p><p> </p><p> </p><p><strong>Job description:</strong></p><p><strong> </strong></p><p>DORIS Engineering is looking for a Lead Instrumentation engineer who should act as engineer on Oil &amp; Gas and potentially on Offshore renewable projects.</p><p>Your range of activity will cover all markets addressed by DORIS: Oil &amp; Gas and Marine Renewable Energies, offshore and onshore engineering. Your scope of responsibilities will encompass engineering projects and discipline development.</p><p> </p><p><u>Engineering projects</u></p><p>You will be involved in a large range of projects from conceptual phases to construction phases with a wide variety of<br />activities, including but not limited to:<br />&#8211; Instrumentation design of offshore topsides, onshore plant, subsea facilities (specification, schematics, data sheet,<br />calculation note, technical room definition, instrumentation database….)<br />&#8211; Preparation and supervision of site survey, onshore and offshore.<br />&#8211; Vendor technical follow-up including Request For Quotation preparation, technical clarification, and Vendor data<br />review.</p><p> </p><p>You will be responsible (quality/planning/budget) for the instrumentation studies performed in-house or the follow-up of</p><p>subcontracted studies with direct communication with our clients/contractors.</p><p> </p><p>You will liaise and cooperate with other DORIS technical disciplines (process, mechanical, electrical, 3D model, safety&#8230;) as <span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">part of your assignment on project.</span></p><p> </p><p><u style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">Discipline development</u></p><p>As instrumentation engineer and under the supervision of the lead instrumentation engineer, you will participate in<br />maintaining DORIS experience and adapt methodologies and know-how to the evolution of state of the art and to the market<br />needs. This includes involvement in R&amp;D activities through internal studies, development of engineering tools.</p><p> </p><p><b>Qualifications &amp; Requirements:</b></p><p><b> </b></p><p>&#8211; M.Sc or equivalent with specialization in instrumentation,<br />&#8211; Internship experience in offshore Oil&amp; Gas instrumentation engineering,<br />&#8211; Knowledge of industrial instrumentation and of process control and safety systems<br />&#8211; Knowledge of applicable regulations, codes of practice, international standards<br />&#8211; Experience of instrumentation databases software (SPI, S4I, Aveva Instrumentation) would be a plus,<br />&#8211; Fluent English &#8211; Good written (including report writing) and verbal communication,<br />&#8211; Mobility required in particular for collaboration with foreign DORIS subsidiaries and participation to surveys in<br />France and abroad offshore and onshore.</p><p><b> </b></p><p><b> </b></p><p><b> </b></p><p><strong>Your application:</strong><br />Please send your CV and cover letter to DORIS Engineering by email : dorisjobs@doriseng.com</p><p><strong><a href="wp-content/uploads/2019/09/DJO_00035_EN-Lead-Instrumentation-Engineer.pdf">Download this vacancy in PDF</a></strong></p><p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em></p><p><em> </em></p><h5><b><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener">APPLY FOR JOB</a>&#8211; </b></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2233" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-2233">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0"> Instrumentation Engineer</a>
+					</div>
+					<div id="elementor-tab-content-2233" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-2233"><h6><span style="color: #124075;"><strong>Job Reference/ DJO_00034<br /></strong></span><span style="color: #124075;"><strong>Région / Site: </strong></span><strong style="color: #124075; font-size: 16px;">DORIS Headquarters, Paris, France</strong></h6><h6><b style="color: #124075;">Contract Type: </b><span style="color: #124075;"><b>Full time </b></span><b style="color: #124075;">| CDI</b><br /><span style="color: #124075;"><strong>Rémunération: According to profil and experience</strong></span></h6><h6><span style="color: #124075;"><strong> </strong></span><span style="color: #124075;"><strong> </strong></span></h6><p>At DORIS Engineering you will be joining a fast-moving and technically diverse environment. DORIS Engineering is unique and often takes engineering projects from feasibility to completion and beyond, developing innovative and optimized solutions for the Oil &amp; Gas industry and offshore renewable industry. We undertake an unusually wide range of work, offering variety, challenge and opportunities for original and innovative engineering that is tailored to the needs of each project.</p><p>We currently have an opportunity for an <b>Instrumentation Engineer </b>based in our Paris Headquarters Office.</p><p> </p><p><strong>Job description:</strong></p><p><strong> </strong></p><p>DORIS Engineering is looking for an Instrumentation engineer who should act as engineer on Oil &amp; Gas and potentially on Offshore renewable projects.<br />Your range of activity will cover all markets addressed by DORIS: Oil &amp; Gas and Marine Renewable Energies, offshore and onshore engineering. Your scope of responsibilities will encompass engineering projects and discipline development.</p><p><u>Engineering projects</u></p><p>You will be involved in a large range of projects from conceptual phases to construction phases with a wide variety of<br />activities, including but not limited to:<br />&#8211; Instrumentation design of offshore topsides, onshore plant, subsea facilities (specification, schematics, data sheet,<br />calculation note, technical room definition, instrumentation database….)<br />&#8211; Preparation and supervision of site survey, onshore and offshore.<br />&#8211; Vendor technical follow-up including Request For Quotation preparation, technical clarification, and Vendor data<br />review.<br />Under the supervision of the lead instrumentation engineer, you will liaise and cooperate with other DORIS technical<br />disciplines (process, mechanical, electrical, 3D model, safety……) as part of your assignment on projects.</p><p><u>Discipline development</u></p><p>As instrumentation engineer and under the supervision of the lead instrumentation engineer, you will participate in<br />maintaining DORIS experience and adapt methodologies and know-how to the evolution of state of the art and to the market<br />needs. This includes involvement in R&amp;D activities through internal studies, development of engineering tools.</p><p> </p><p><b>Qualifications &amp; Requirements:</b></p><p><b> </b></p><p>&#8211; M.Sc or equivalent with specialization in instrumentation,<br />&#8211; Internship experience in offshore Oil&amp; Gas instrumentation engineering,<br />&#8211; Knowledge of industrial instrumentation and of process control and safety systems<br />&#8211; Knowledge of applicable regulations, codes of practice, international standards<br />&#8211; Experience of instrumentation databases software (SPI, S4I, Aveva Instrumentation) would be a plus,<br />&#8211; Fluent English &#8211; Good written (including report writing) and verbal communication,<br />&#8211; Mobility required in particular for collaboration with foreign DORIS subsidiaries and participation to surveys in<br />France and abroad offshore and onshore.</p><p><b> </b></p><p><b> </b></p><p><b> </b></p><p><strong>Your application:</strong><br />Please send your CV and cover letter to DORIS Engineering by email : dorisjobs@doriseng.com</p><p><strong><a href="wp-content/uploads/2019/09/DJO_00034_EN-Instrumentation-Engineer.pdf">Download this vacancy in PDF</a></strong></p><p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em></p><p><em> </em></p><h5><b><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener">APPLY FOR JOB</a>&#8211; </b></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2234" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-2234">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Lead Flow Assurance Engineer</a>
+					</div>
+					<div id="elementor-tab-content-2234" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-2234"><h6><span style="color: #124075;"><strong>Job Reference/ DJO_00029<br /></strong></span><span style="color: #124075;"><strong>Région / Site: </strong></span><strong style="color: #124075; font-size: 16px;">DORIS Headquarters, Paris, France</strong></h6><h6><span style="color: #124075;"><strong>Contract Type: Temps plein | CDI<br /></strong></span><span style="color: #124075;"><strong>Rémunération: According to profil and experience</strong></span></h6><h6><span style="color: #124075;"><strong> </strong></span><span style="color: #124075;"><strong> </strong></span></h6><p>At DORIS Engineering you will be joining a fast-moving and technically diverse environment. DORIS Engineering is unique and often takes engineering projects from feasibility to completion and beyond, developing innovative and optimized solutions for the Oil &amp; Gas industry and offshore renewable industry. We undertake an unusually wide range of work, offering variety, challenge and opportunities for original and innovative engineering that is tailored to the needs of each project.</p><p>We currently have an opportunity for a Lead Flow Assurance Engineer based in our Paris Headquarters Office.</p><p> </p><p><strong>Job description</strong></p><p>DORIS Engineering is looking at reinforcing its team of specialized flow assurance engineers. The application is for a<br />lead engineer having confirmed experience in offshore &amp; onshore for complex flow assurance issues and of OLGA<br />software use.</p><p>You will be integrated in the DORIS process department and perform engineering activities related to thermo-hydraulic<br />fluid behavior in pipelines and risers. Your range of activity will cover all markets addressed by DORIS: Oil &amp; Gas,<br />offshore and onshore engineering, green and brown field projects and emerging markets (e.g. CO2 transport).</p><p>Mobility is encouraged within DORIS through several opportunities of abroad assignment on Projects and collaboration<br />with foreign DORIS subsidiaries.</p><p> </p><p>Your scope of responsibilities will encompass engineering projects and discipline development.</p><p> </p><p><span style="text-decoration: underline;">Engineering projects</span><br />You will be involved in a large range of projects from conceptual phases to start-up phases. Your main tasks will be as<br />follows:<br />&#8211; Carry out and supervise studies from preliminary to detailed engineering stages<br />&#8211; Coordinate activities of the flow assurance team involved in the project<br />&#8211; Liaise and interface with other disciplines (Subsea and Process) and with the client<br />&#8211; Follow planning and guarantee a successful project execution phase<br />&#8211; Identify, define and analyse complex multiphase hydrocarbon transportations schemes<br />&#8211; Recommend operating guidelines to provide field operation support to improve the safety of operations,<br />&#8211; Prepare technical dossiers including basis of design, calculation notes, specifications, etc.</p><p>You will liaise and cooperate with other DORIS technical departments such as process, pipeline, subsea production<br />system, etc.</p><p> </p><p><span style="text-decoration: underline;">Discipline development</span><br />You will participate in maintaining DORIS experience and adapt methodologies and knowhow to the evolution of state of<br />the art and to the market needs. This includes involvement in R&amp;D activities through internal studies, development of<br />engineering tools, new software learning, supervision of senior and junior engineers.</p><p> </p><p><strong>Qualifications &amp; Requirements:</strong><br />&#8211; Engineering degree or equivalent with specialization in fluid mechanics, thermal transfer, thermodynamic,<br />dynamic simulations,<br />&#8211; Minimum 10 years’ experience in similar position on offshore &amp; onshore flow assurance engineering for Oil &amp;<br />Gas project,<br />&#8211; Good experience of OLGA/ Ledaflow software,<br />&#8211; Fluent English – Good written (including report writing) and verbal communication.</p><p> </p><p><strong>Your application:</strong><br />Please send your CV and cover letter to DORIS Engineering by email : dorisjobs@doriseng.com</p><p> </p><p><strong><a href="wp-content/uploads/2019/06/DJO_00029-Lead-Flow-assurance-engineer-1.pdf">Download this vacancy in PDF</a></strong></p><p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em></p><p><em> </em></p><h5><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener"><b>APPLY FOR JOB</b></a></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2235" class="elementor-tab-title" data-tab="5" role="tab" aria-controls="elementor-tab-content-2235">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Ingénieur sécurité industrielle</a>
+					</div>
+					<div id="elementor-tab-content-2235" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-2235"><h6><span style="color: #124075;"><strong>Job Reference/ DJO_00027<br /></strong></span><span style="color: #124075;"><strong>Région / Site: </strong></span><strong style="color: #124075; font-size: 16px;">DORIS Headquarters, Paris, France</strong></h6><h6><span style="color: #124075;"><strong>Contract Type:Temps plein | CDI<br /></strong></span><span style="color: #124075;"><strong>Rémunération: Selon profil et expérience</strong></span></h6><h6><span style="color: #124075;"><strong> </strong></span><span style="color: #124075;"><strong> </strong></span></h6><p>DORIS Engineering cherche un <strong>ingénieur débutant sécurité industrielle (H/F)</strong> qui interviendra sur tous les marchés sur lesquels DORIS Engineering est présent : Pétrole, Gaz et Énergies Marines Renouvelables, ingénierie offshore et onshore. Votre domaine de compétence englobera des projets d&rsquo;ingénierie et le développement de la discipline. Le poste est basé dans nos bureaux à Paris.</p><p> </p><p><strong>Job description</strong><br />Projets d&rsquo;ingénierie</p><p>Vous serez impliqué dans une grande gamme de projets depuis les phases conceptuelles jusqu’aux phases de construction avec une large variété d&rsquo;activités incluant notamment :<br />&#8211; Rédaction d’études de danger.<br />&#8211; Définition des moyens de détection feu et de fuite de gaz.<br />&#8211; Définition des moyens de lutte active et passive contre l’incendie.<br />&#8211; Définitions des philosophies de mise en sécurité des installations.<br />&#8211; Définition des moyens d’évacuation d’urgence.<br />&#8211; Modéliser des scénarios de fuite de gaz ou de feu avec un logiciel, type PHAST.<br />&#8211; Analyses de risque en utilisant les méthodes courantes de type HAZID, HAZOP, QRA, etc.<br />Vous serez rattaché au département installation de surface et rapporterez au lead discipline, ingénieur projet, ou chef de projet.<br />L’ingénieur sécurité industrielle est en lien et coopère avec les autres départements techniques (process, électricité, instrumentation, structure, mécanique, bureau d’étude, …) dans le cadre de ses attributions projet.</p><p> </p><p><strong>Profil<br /></strong>Diplôme d’ingénieur ou équivalent avec spécialisation en sciences industrielles à sécurité industrielle (débutant accepté),<br />&#8211; Organisé, bon relationnel, capable de travailler dans un contexte pluridisciplinaire en interne et à l&rsquo;international.<br />&#8211; Anglais courant &#8211; Bon écrit (incluant la rédaction de rapports) et communication verbale,<br />&#8211; Mobilité impérative en particulier pour la collaboration avec les filiales étrangères et la participation à des projets en France et à l&rsquo;étranger, offshore et onshore.</p><p> </p><p>Merci de nous transmettre votre CV et lettre de motivation en anglais à <a href="mailto:dorisjobs@doriseng.com">dorisjobs@doriseng.com</a></p><p> </p><p><strong><a href="wp-content/uploads/2019/06/DJO_00027-Safety-Engineer-junior-FR.pdf">Download this vacancy in PDF</a></strong></p><p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em></p><p><em> </em></p><h5><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener"><b>APPLY FOR JOB</b></a></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2236" class="elementor-tab-title" data-tab="6" role="tab" aria-controls="elementor-tab-content-2236">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Projeteur Junior Tuyauterie et Installation Générale PDMS/E3D </a>
+					</div>
+					<div id="elementor-tab-content-2236" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-2236"><h6><span style="color: #124075;"><strong>Job Reference/ DJO_00022<br /></strong></span><span style="color: #124075;"><strong>Région / Site: Siège DORIS Engineering, Paris, France<br /></strong></span><span style="color: #124075;"><strong>Contract Type: CDI<br /></strong></span><span style="color: #124075;"><strong>Rémunération: Selon profil et expérience</strong></span></h6><h6><span style="color: #124075;"><strong> </strong></span><span style="color: #124075;"><strong> </strong></span></h6><p>DORIS Engineering est un acteur majeur du marché Oil &amp; Gas et développe des solutions d’ingénierie innovantes pour<br />répondre aux besoins de ses clients. DORIS Engineering conçoit notamment des modèles numériques 3D représentant les installations pétrolières pour lesquelles DORIS réalise des études. Ces modèles 3D permettent en particulier de :<br />• Coordonner et contrôler les activités de l’ensemble des corps de métier à travers un support visuel et partagé<br />• Contrôler l’évolution du projet suivant les exigences des clients<br />• Extraire les plans nécessaires à la vérification et à la construction des installations<br />• Extraire les informations nécessaires aux réquisitions du matériel et au suivi des approvisionnements<br />Dans ce contexte, DORIS Engineering recherche un(e) dessinateur (rice) ou projeteur (euse) en Tuyauterie et Installation<br />Générale pour ses projets Oil and Gas.</p><p> </p><p><strong>Responsabilité générale</strong><br />Le(a) projeteur(euse) Tuyauterie et Installation Générale est chargé(e) de concevoir les tuyauteries et leurs supports dans un environnement 3D de type PDMS / E3D pour les projets d’ingénierie pétrolière de Doris Engineering dans le respect des règles du métier et de l’entreprise.</p><p> </p><p><strong>Activités</strong><br />Le(a) projeteur(euse) Tuyauterie et Installation Générale dépend hiérarchiquement du responsable du Bureau d’Etudes, qui dépend lui-même du Directeur de l’ingénierie.<br />Le(a) projeteur(euse) Tuyauterie et Installation Générale réalise les activités suivantes :<br />&#8211; Conçoit, selon les règles de l’art et à l’aide des données qui lui sont fournies, les tuyauteries requises et leurs<br />supports, dans une maquette 3D numérique élaborée avec le logiciel PDMS / E3D<br />&#8211; Conçoit et intègre les équipements (tuyauterie, robinetterie, machine tournante&#8230;) dans leur environnement<br />(structure)<br />&#8211; Réalise des études spécifiques ou transverses, préliminaires ou détaillées (en vue de la fabrication ou de la<br />construction)<br />&#8211; Édite des plans guides ou de détail au besoin (isométriques, plans de supports, plans divers) avec PDMS / E3D<br />et/ou avec Autocad.<br />&#8211; Fournit un support aux ingénieurs d’études<br />Les documents principaux à produire sont :<br />&#8211; Plans d’implantation ou d’installation des équipements<br />&#8211; Plans de tuyauterie (isométriques, plans de supportages)<br />&#8211; Plans guide d’installation ou plans généraux représentatifs des études<br />Les outils principaux à utiliser sont E3D 2.1, PDMS 12.1, et Autocad.</p><p> </p><p><strong>Compétences :</strong><br />Le(a) projeteur(euse) Tuyauterie et Installation Générale doit au minimum réunir les compétences listées ci-dessous :<br />&#8211; Etre diplômé(e) d’un BTS de Conception de Produits Industriels, d’un DUT Génie Mécanique ou éq uivalent<br />&#8211; La maîtrise d’Autocad est requise<br />&#8211; Etre doté(e) d’un bon relationnel pour travailler en équipe<br />&#8211; Anglais Parlé, Lu, Ecrit<br />Une expérience réussie dans le domaine Oil and Gas et la connaissance de PDMS/E3D est un plus.<br />Lors de votre arrivée, vous serez accompagné(e) et formé(e) par nos responsables techniques.<br />Le poste à pourvoir à compter du mois de septembre2019.<br />Des déplacements occasionnels en France ou à l’étranger sont à prévoir.</p><p> </p><p><strong><a href="wp-content/uploads/2019/05/DJO_00022-Projeteur-Tuyauterie-PDMS-E3D-junior.pdf">Download this vacancy in PDF</a></strong></p><p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em></p><p><em> </em></p><h5><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener"><b>APPLY FOR JOB</b></a></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2237" class="elementor-tab-title" data-tab="7" role="tab" aria-controls="elementor-tab-content-2237">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Projeteur Junior Structure PDMS/E3D</a>
+					</div>
+					<div id="elementor-tab-content-2237" class="elementor-tab-content elementor-clearfix" data-tab="7" role="tabpanel" aria-labelledby="elementor-tab-title-2237"><p><span style="color: #124075;"><strong>Job Reference/ DJO_00021</strong></span><br /><span style="color: #124075;"> <strong>Région / Site : Siège DORIS Engineering, Paris, France</strong></span><br /><span style="color: #124075;"> <strong>Contrat : CDI</strong></span><br /><span style="color: #124075;"> <strong>Rémunération : Selon profil et expérience</strong></span></p><p><span style="color: #124075;"><strong> </strong></span></p><p>DORIS Engineering est un acteur majeur du marché Oil &amp; Gas et développe des solutions d’ingénierie innovantes pour répondre aux besoins de ses clients. DORIS Engineering conçoit notamment des modèles numériques 3D représentant les installations pétrolières pour lesquelles DORIS réalise des études. Ces modèles 3D permettent en particulier de :<br />• Coordonner et contrôler les activités de l’ensemble des corps de métier à travers un support visuel et partagé<br />• Contrôler l’évolution du projet suivant les exigences des clients<br />• Extraire les plans nécessaires à la vérification et à la construction des installations<br />• Extraire les informations nécessaires aux réquisitions du matériel et au suivi des approvisionnements</p><p><br />Dans ce contexte, DORIS Engineering recherche un(e) dessinateur (rice) ou projeteur (euse) en Tuyauterie et Installation<br />Générale pour ses projets Oil and Gas.</p><p> </p><p><strong>Responsabilité générale</strong><br />Le(a) projeteur(euse) Structure est chargé(e) de concevoir les structures métalliques dans un environnement 3D de type<br />PDMS / E3D pour les projets d’ingénierie pétrolière de Doris Engineering, dans le respect des règles du métier et de<br />l’entreprise.</p><p> </p><p><strong>Activités</strong><br />Le(a) projeteur(euse) Structure dépend hiérarchiquement du responsable du Bureau d’Etudes, qui dépend lui-même du<br />Directeur de l’ingénierie.<br />Le(a) projeteur(euse) Structure réalise les activités suivantes :<br />&#8211; Conçoit, selon les règles de l’art et à l’aide des données qui lui sont fournies, des structures métalliques offshore<br />dans une maquette 3D numérique élaborée avec le logiciel PDMS / E3D<br />&#8211; Réalise des études spécifiques ou transverses, préliminaires ou détaillées (en vue de la fabrication ou de la<br />construction)<br />&#8211; Édite des plans guides ou de détail au besoin (plans de structures primaires, plans de supports, plans<br />d’assemblage, plans divers) avec PDMS / E3D et/ou avec Autocad.<br />&#8211; Fournit un support aux ingénieurs d’études<br />Les documents principaux à produire sont :<br />&#8211; Plans généraux de structure<br />&#8211; Plans de conception (structures primaires, secondaires et tertiaire, etc.)<br />&#8211; Plans guide d’installation ou plans généraux représentatifs des études<br />Les outils principaux à utiliser sont E3D 2.1, PDMS 12.1, et Autocad.</p><p> </p><p><strong>Compétences :</strong><br />Le(a) projeteur(euse) Structure doit au minimum réunir les compétences listées ci-dessous :<br />&#8211; Etre diplômé(e) d’un BTS Structures Métalliques ou équivalent<br />&#8211; La maîtrise d’Autocad est requise<br />&#8211; Etre doté(e) d’un bon relationnel pour travailler en équipe<br />&#8211; Anglais Parlé, Lu, Ecrit</p><p>Une expérience réussie dans le domaine Oil and Gas et la connaissance de PDMS/E3D est un plus.</p><p>Lors de votre arrivée, vous serez accompagné(e) et formé(e) par nos responsables techniques.</p><p>Le poste à pourvoir à compter du mois de septembre 2019.</p><p>Des déplacements occasionnels en France ou à l’étranger sont à prévoir.</p><p> </p><p><strong><a href="wp-content/uploads/2019/05/DJO_00022-Projeteur-Tuyauterie-PDMS-E3D-junior.pdf">Download this vacancy in PDF</a></strong></p><p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully </em><em>considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to </em><em>personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment </em><em>process.</em></p><p><em> </em></p><h5><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener"><b>APPLY FOR JOB</b></a></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2238" class="elementor-tab-title" data-tab="8" role="tab" aria-controls="elementor-tab-content-2238">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Discipline Engineer | Piping – Valves - Vessels</a>
+					</div>
+					<div id="elementor-tab-content-2238" class="elementor-tab-content elementor-clearfix" data-tab="8" role="tabpanel" aria-labelledby="elementor-tab-title-2238"><p><span style="color: #124075;"><strong>Job Reference/ DJO_00025</strong></span><br /><span style="color: #124075;"> <strong>Région / Site : Siège DORIS Engineering, Paris, France</strong></span><br /><span style="color: #124075;"> <strong>Contrat : CDI</strong></span><br /><span style="color: #124075;"> <strong>Rémunération : Selon profil et expérience</strong></span></p><p><span style="color: #124075;"><strong> </strong></span></p><div title="Page 1"><div><div><div><div title="Page 1"><div><div><div><p>DORIS Engineering recherche un(e) <b>ingénieur(e) PVV (Piping – Valves – Vessels) junior (H/F)</b> basé(e) dans nos bureaux à Paris.</p></div></div></div></div></div></div></div></div><p><strong>Job description:</strong></p><p>Vous interviendrez sur tous les marchés sur lesquels DORIS Engineering est présent : Pétrole, Gaz et Énergies Marines</p><p>Renouvelables, ingénierie offshore et onshore. Votre domaine de compétence englobera des projets d&rsquo;ingénierie et le</p><p>développement de la discipline.</p><p><u>Projets d&rsquo;ingénierie<br /></u>Vous serez impliqué(e) dans une grande gamme de projets depuis les phases conceptuelles jusqu’aux phases de construction avec une large variété d&rsquo;activités incluant notamment :</p><p>&#8211; Rédaction des documents lors des études de design de la tuyauterie, des robinets-vannes et des équipements statiques pour les équipements de surface offshore, usines onshore, installations sous-marines (spécification, fiche technique, rapport de sélection, philosophie de manutention).</p><p>&#8211; Les calculs préliminaires des épaisseurs et des poids des appareils à pression suivant le code applicable (ASME VIII Div. 1 &amp; Div. 2, PD 5500,…) ainsi que les calculs thermiques pour le dimensionnement des échangeurs tubulaires et les aéro-réfrigérants.</p><p>&#8211; Le suivi régulier et la coordination du modèle 3D.</p><p>&#8211; Contact régulier avec les fournisseurs d’équipement et vieille technologique,</p><p>&#8211; Participation au dossier d’appel d’offre, aux clarifications techniques et réalisation de tableaux de comparaisons d’offres fournisseur</p><p>&#8211; Suivi technique de fournisseurs.</p><p>Vous serez rattaché(e) au département installation de surface et rapporterez au lead discipline, ingénieur projet, ou chef de projet.<br />L’ingénieur(e) PVV est en lien et coopère avec les autres départements techniques (process, électricité, instrumentation, structure, mécanique, sécurité, bureau d’étude, …) dans le cadre de ses attributions projet.</p><p><strong>Profil:</strong></p><p>&#8211; Diplôme d’ingénieur ou équivalent avec spécialisation en sciences industrielles à dominante métallurgique (débutant accepté),<br />&#8211; Organisé(e), bon relationnel, capable de travailler dans un contexte pluridisciplinaire en interne et à l&rsquo;international.<br />&#8211; Anglais courant &#8211; Bon écrit (incluant la rédaction de rapports) et communication verbale,<br />&#8211; Mobilité impérative en particulier pour la collaboration avec les filiales étrangères et la participation à des projets en France et à l&rsquo;étranger, offshore et onshore.</p><p>Merci de nous transmettre votre CV et lettre de motivation en anglais à <a href="mailto:dorisjobs@doriseng.com">dorisjobs@doriseng.com</a></p><p><strong><a href="wp-content/uploads/2019/05/DJO_00025-Discipline-PVV-Engineer-FR.pdf">Download this vacancy in PDF</a></strong></p><p> </p><p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully </em><em>considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to </em><em>personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment </em><em>process.</em></p><p><em> </em></p><h5><b><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener">APPLY FOR JOB</a></b></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2239" class="elementor-tab-title" data-tab="9" role="tab" aria-controls="elementor-tab-content-2239">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Discipline Engineer | Mechanical</a>
+					</div>
+					<div id="elementor-tab-content-2239" class="elementor-tab-content elementor-clearfix" data-tab="9" role="tabpanel" aria-labelledby="elementor-tab-title-2239"><p><span style="color: #124075;"><strong>Job Reference/ DJO_00026</strong></span><br /><span style="color: #124075;"> <strong>Région / Site : DORIS Headquarters, Paris, France</strong></span><br /><span style="color: #124075;"> <strong>Contrat : CDI</strong></span><br /><span style="color: #124075;"> <strong>Rémunération : Selon profil et expérience</strong></span></p><p><span style="color: #124075;"><strong> </strong></span></p><div title="Page 1"><div><div><div><div title="Page 1"><div><div><div><p>DORIS Engineering recherche un(e)<b> ingénieur(e) mécanique junior (H/F) </b>basé(e) dans nos bureaux à Paris.</p><p> </p></div></div></div></div></div></div></div></div><p><strong>Job description:</strong></p><p>Vous interviendrez sur tous les marchés sur lesquels DORIS Engineering est présent : Pétrole, Gaz et Énergies Marines</p><p>Renouvelables, ingénierie offshore et onshore. Votre domaine de compétence englobera des projets d&rsquo;ingénierie et le</p><p>développement de la discipline.</p><p><u>Projets d&rsquo;ingénierie<br /></u></p><p>Vous serez impliqué(e) dans une grande gamme de projets depuis les phases conceptuelles jusqu’aux phases de</p><p>construction avec une large variété d&rsquo;activités incluant notamment :<br /><span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;"><br />&#8211; Rédaction des documents lors des études de design des machines tournantes et des moyens de levage pour les</span></p><p>équipements de surface offshore, usines onshore, installations sous-marines (spécification, fiche technique, rapport</p><p>de sélection, philosophie de manutention)</p><p>&#8211; Contact régulier avec les fournisseurs d’équipement et vieille technologique,</p><p>&#8211; Participation au dossier d’appel d’offre, aux clarifications techniques et réalisation de tableaux de comparaisons</p><p>d’offres fournisseur</p><p>&#8211; <span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">Suivi technique de fournisseurs.</span></p><p> </p><p>Vous serez rattaché(e) au département installation de surface et rapporterez au lead discipline, ingénieur projet, ou chef de <span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">projet.</span></p><p>L’ingénieur mécanique est en lien et coopère avec les autres départements techniques (process, électricité, instrumentation, <span style="font-family: Roboto, sans-serif; font-size: 16px; font-weight: normal;">structure, modélisation 3D, sécurité &#8230;) dans le cadre de ses attributions projet.</span></p><p><strong> </strong></p><p><strong>Profil:</strong></p><p>&#8211; Diplôme d’ingénieur ou équivalent avec spécialisation en sciences industrielles à dominante mécanique (débutant</p><p>accepté),</p><p>&#8211; Connaissances des équipements suivants : turbogénérateurs, compresseurs, pompes, grues et moyen de levage,</p><p>etc.</p><p>&#8211; Organisé(e), bon relationnel, capable de travailler dans un contexte pluridisciplinaire en interne et à l&rsquo;international.</p><p>&#8211; Anglais courant &#8211; Bon écrit (incluant la rédaction de rapports) et communication verbale,</p><p>&#8211; Connaissance de Naviswork</p><p>&#8211; Mobilité impérative en particulier pour la collaboration avec les filiales étrangères et la participation à des projets en</p><p>France et à l&rsquo;étranger, offshore et onshore.</p><p> </p><p>Merci de nous transmettre votre CV et lettre de motivation en anglais à <a href="mailto:dorisjobs@doriseng.com">dorisjobs@doriseng.com</a></p><p> </p><p><strong><a href="wp-content/uploads/2019/05/DJO_00026-Discipline-Mec-Engineer-FR.pdf">Download this vacancy in PDF</a></strong></p><p> </p><p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully </em><em>considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to </em><em>personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment </em><em>process.</em></p><p><em> </em></p><h5><b><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener">APPLY FOR JOB</a> </b></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-22310" class="elementor-tab-title" data-tab="10" role="tab" aria-controls="elementor-tab-content-22310">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Lead Discipline | Mechanical rotating Engineer</a>
+					</div>
+					<div id="elementor-tab-content-22310" class="elementor-tab-content elementor-clearfix" data-tab="10" role="tabpanel" aria-labelledby="elementor-tab-title-22310"><p><span style="color: #124075;"><strong>Job Reference/ DJO_00006</strong></span><br /><span style="color: #124075;"> <strong>Region / Site: DORIS Headquarters, Paris, France </strong></span><br /><span style="color: #124075;"> <strong>Contract Type: Full time | CDI</strong></span><br /><span style="color: #124075;"> <strong>Remuneration: According to profile and experience</strong></span></p><p><span style="color: #124075;"><strong> </strong></span></p><p><span style="color: #124075;"><strong> </strong></span></p><p>At DORIS you will be joining a fast-moving and technically diverse environment. DORIS is unique and often takes engineering projects from feasibility to completion and beyond, developing innovative and optimized solutions for the Oil &amp; Gas industry. We undertake an unusually wide range of work, offering variety, challenge and opportunities for original and innovative engineering that is tailored to the needs of each project.</p><p>We currently have an opportunity for a <strong>Lead Mechanical Rotating Engineer</strong> based in our <strong>Paris</strong> Headquarters Office.</p><p> </p><p><strong>Job Description:</strong><br />DORIS Engineering is looking for an experienced mechanical rotating engineer who should act as lead engineer on Oil &amp; Gas and on Offshore Renewable projects.</p><p>Your range of activity will cover all markets addressed by DORIS: Oil &amp; Gas, offshore and onshore engineering, green and brown field projects. Your scope of responsibilities will encompass engineering projects and discipline development.</p><p><span style="text-decoration: underline;"><span style="font-weight: 400; color: #124075; text-decoration: underline;">Engineering projects<br /></span></span>You will be involved in a large range of projects from conceptual phases to construction phases with a wide variety of activities, including but not limited to:</p><p>&#8211; Rotating Mechanical design of offshore topsides, onshore plant, subsea facilities (specification, data sheet, 3D model)<br />&#8211; Preparation and supervision of site survey, onshore and offshore<br />&#8211; Vendor technical follow-up including Request for Quotation preparation, technical clarification, and Vendor data review.</p><p>You will be responsible for the mechanical rotating studies performed in-house or the follow-up of subcontracted studies with direct communication with our clients/contractors.</p><p>You will liaise and cooperate with other DORIS technical disciplines (process, layout, 3D model, structure, electrical, instrumentation,&#8230;) part of your assignment on projects.</p><p><span style="text-decoration: underline;"><span style="font-weight: 400; color: #124075; text-decoration: underline;">Discipline development</span></span><br />As lead of the mechanical discipline, you will participate in maintaining DORIS experience and adapt methodologies and knowhow to the evolution of state of the art and to the market needs. This includes involvement in R&amp;D activities through internal studies, development of engineering tools, supervision of trainee.</p><p> </p><p><strong>Qualifications &amp; Requirements:</strong><br />&#8211; M.Sc or equivalent with specialization in mechanical,<br />&#8211; Minimum 10 years’ experience in offshore &amp; onshore mechanical rotating engineering for Oil &amp; Gas project,<br />&#8211; Experience shall cover the following type of equipment: generator, compressor, pumps, crane, handling,<br />mechanical package such as chemical injection &#8230;<br />&#8211; Experience at Vendor would be a plus,<br />&#8211; Fluent English &#8211; Good written (including report writing) and verbal communication,<br />&#8211; Familiar with 3D model viewer software Naviswork<br />&#8211; Good working knowledge of applicable regulations, codes of practice, international standards<br />&#8211; Mobility required in particular for collaboration with foreign DORIS subsidiaries and participation to surveys in France and abroad, offshore and onshore.</p><p> </p><p><strong><a href="wp-content/uploads/2019/04/DJO_00006-Lead-Mechanical-Rotating-Engineer.pdf">Download this vacancy in PDF</a></strong></p><p><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em></p><p><em> </em></p><h5><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener"><b>APPLY FOR JOB</b></a></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-22311" class="elementor-tab-title" data-tab="11" role="tab" aria-controls="elementor-tab-content-22311">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Responsable d'offre</a>
+					</div>
+					<div id="elementor-tab-content-22311" class="elementor-tab-content elementor-clearfix" data-tab="11" role="tabpanel" aria-labelledby="elementor-tab-title-22311"><p><span style="color: #124075;"><strong>Job Reference/ DJO_00010</strong></span><br /><span style="color: #124075;"> <strong>Region / Site: DORIS Headquarters, Paris 13, France </strong></span><br /><span style="color: #124075;"> <strong>Contract Type: Temps plein | CDI</strong></span><br /><span style="color: #124075;"> <strong>Remuneration: According to profile and experience<br /><br /></strong></span></p><p>DORIS Engineering est une société d’ingénierie reconnue mondialement dans le secteur de l’énergie. Depuis quelques années, DORIS Engineering accentue ses investissements dans les domaines de diversification dont les énergies renouvelables deviennent un axe important.<br />DORIS Engineering est à la recherche d’un(e) Responsable d’offre.<br /><br /></p><p><strong>Activités<br /></strong>Le/la Responsable d’offre sera responsable de la préparation, de la soumission et du suivi de propositions techniques et commerciales. Sous l’autorité du Directeur Commercial, il/elle travaillera en étroite collaboration avec l&rsquo;ingénierie et les départements juridique et financier pour préparer des propositions techniques et commerciales. Il/elle s’assurera que lesdites propositions soient soumises en temps et en heure tout en étant conformes au cahier des charges, cohérentes et commercialement viables.<br /><br /></p><p><strong>Périmètre d’activités</strong><br />&#8211; Revue de la consultation (appel d&rsquo;offre, demande de cotation ou simple demande d’informations) et évaluation préliminaire des risques et des opportunités pour DORIS Engineering,<br />&#8211; Présentation de la consultation et des risques et opportunités au Directeur Commercial pour choisir la réponse la plus appropriée et la stratégie à mettre en place,<br />&#8211; Définition des actions à lancer en priorité compte tenu des délais de soumission,<br />&#8211; Echanges avec le Client, les partenaires et/ou les éventuels sous-traitants,<br />&#8211; Travail en commun avec département ingénierie pour clarifier la prestation, rédiger les qualifications techniques à inclure dans la proposition et estimer les budgets d’heures nécessaires,<br />&#8211; Travail en commun avec le département juridique et financier et avec les conseillers fiscaux pour rédiger les qualifications contractuelles et commerciales à inclure dans la proposition et pour obtenir les garanties bancaires exigées ainsi que les couvertures de change,<br />&#8211; Revue des propositions préparées par les sous-traitants,<br />&#8211; Établissement du montant de la proposition, en se basant sur les budgets d’heures estimés,  Préparation et organisation de la réunion de revue de proposition pour recueillir les commentaires de la direction générale,<br />&#8211; Participation aux réunions de clarifications techniques, commerciales et contractuelles avec le Client,<br />&#8211; Négociations avec le Client pour remporter l’appel d’offre tout en préservant les intérêts de DORIS Engineering,<br />&#8211; Si la proposition est retenue, transfert de toutes les informations pertinentes au Chef de projet désigné,<br />&#8211; Suivi de la préparation du contrat / la commande du Client.<br /><br /></p><p><strong>Profil</strong><br />– Titulaire d’un diplôme d’ingénieur /école de commerce<br />– Expérience de minimum 3 ans sur un poste équivalent dans une société d&rsquo;ingénierie, évoluant de préférence dans le secteur de l’énergie.<br />– Expérience de propositions complexes dans des environnements internationaux/multiculturels.<br />– Compétences confirmées en commerce et négociation et une bonne compréhension de base du langage contractuel.<br />– Anglais courant impératif,<br />– Grande aisance rédactionnelle,<br />– Esprit d’équipe, flexibilité,<br />– La maîtrise de l’outil CRM Salesforce serait un plus,<br />– Maîtrise du Pack Office,<br />– Mobilité en France et à l&rsquo;étranger pour de courts déplacements.<br /><br /><br /><strong><a href="wp-content/uploads/2019/04/DJO_00010_Tender-Manager_fr-2019-1.pdf">Download this vacancy in PDF</a></strong><br /><br /><br /><em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em><br /><br /><br /><em> </em></p><h5><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener"><b>APPLY FOR JOB</b></a></h5></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-22312" class="elementor-tab-title" data-tab="12" role="tab" aria-controls="elementor-tab-content-22312">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Junior Process Engineer</a>
+					</div>
+					<div id="elementor-tab-content-22312" class="elementor-tab-content elementor-clearfix" data-tab="12" role="tabpanel" aria-labelledby="elementor-tab-title-22312"><span style="color: #124075;"><strong>Job Reference/ DJO_00018</strong></span>
+<span style="color: #124075;"> <strong>Region / Site: DORIS Headquarters, Paris, France </strong></span>
+<span style="color: #124075;"> <strong>Contract Type: Full time | CDI</strong></span>
+<span style="color: #124075;"> <strong>Remuneration: According to profile and experience</strong></span>
+
+<span style="color: #124075;"><strong> </strong></span>
+
+At DORIS you will be joining a fast-moving and technically diverse environment. DORIS is unique and often takes engineering projects from feasibility to completion and beyond, developing innovative and optimized solutions for the Oil &amp;Gas industry. We undertake an unusually wide range of work, offering variety, challenge and opportunities for original and innovative engineering that is tailored to the needs of each project.
+
+We currently have an opportunity for one <strong>Junior Process Engineer</strong> based in our <strong>Paris</strong> Headquarters Office.
+
+&nbsp;
+
+<strong>Job Description:</strong>
+
+DORIS Engineering is looking for a junior engineer wishing to perform design and process engineering studies in the Oil &amp; Gas and Renewable Energy markets and wishing to work in a team.
+
+You will be involved in a large range of projects from conceptual to detail engineering design with a wide variety of activities, including but not limited to:
+&#8211; Definition of design basis and dimensioning rules;
+&#8211; Modeling and simulation of hydrocarbon production processes;
+&#8211; Establishment of material, energy and utility balances;
+&#8211; Sizing calculations of hydrocarbon production equipment and utilities such as separators, columns, pumps, compressors, exchangers, control valves, &#8230;;
+&#8211; Development of process diagrams (PFD, UFD, P &amp; ID, PSD, ESD);
+&#8211; Establishment of lists of equipment and lines;
+&#8211; Writing specifications and equipment data sheet;
+&#8211; Writing calculation notes and study reports;
+&#8211; Writing principles of operation and control of facilities.
+
+The position will be attached to the Process Department. You will be assigned within a multi-discipline (piping, mechanical, instrumentation, 3D model, safety&#8230;) project team, under the responsibility of the Lead Process Engineer.
+
+You will also participate in maintaining DORIS experience and adapt methodologies and knowhow to the evolution of state of the art and to the market needs. This includes involvement in R&amp;D activities through internal studies and development of engineering, calculation and modeling tools.
+
+The position could evolve towards a position of Senior Process Engineer or Lead Process Engineer.
+
+&nbsp;
+
+<strong>Qualifications &amp; Requirements:</strong>
+&#8211; A degree in Chemical or Petroleum Engineering (MS or equivalent), starting or having a first significant experience;
+&#8211; Good knowledge of thermodynamics, hydraulics, thermal, process simulation (HYSYS or equivalent), numerical computation and computer programming are required;
+&#8211; Fluent English – Good written (including report writing) and verbal communication;
+&#8211; Mobility required for abroad assignment on Projects and collaboration with foreign DORIS subsidiaries.
+
+<em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em>
+
+<em> </em>
+
+<strong><a href="wp-content/uploads/2019/04/DJO_00018-Junior-Process-Engineer-.pdf">Download this vacancy in PDF</a></strong>
+
+<em> We would like to take this opportunity to thank you for your interest in this vacancy. Your application will be carefully considered during the initial screening process. Unfortunately due to the high volumes of applicants we may not be able to personally respond with everyone that applies but we will contact you if you are selected to progress in the recruitment process.</em>
+
+<em> </em>
+<h5><a href="mailto:dorisjobs@doriseng.com" target="_blank" rel="noopener"><b>APPLY FOR JOB</b></a></h5></div>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		                </div>
+            </div>
+
+<footer id="footer" class="section" data-section-name="06">
+		<div class="container">
+			<h2 class="logo-footer">
+				<a href="index.html">Doris</a>
+			</h2>
+			<p class="text">
+				Pushing the boundaries of energy production with integrated engineering			</p>
+			
+			<!-- /.logo -->
+							<nav class="nav nav-footer">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-797"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252F&amp;_wpnonce=484">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252F&amp;_wpnonce=484">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2514"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Fshareholders%25">Shareholders</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Fmanagement-te">Management team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-800"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Fhistory%252F&amp;_w">History</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-799"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Four-values%252F">Our values</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Fouraddedvalue">Our Added Value</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1182"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fabout-doris-group%252Four-added-val">Reports &#038; Brochures</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-759"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252F&amp;_wpnonce=4841db67e0">Oil &#038; Gas</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-781"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252F&amp;_wpnonce=4841db67e0">Oil &#038; Gas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-780"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-conceptual-engi">Conceptual &#038; FEED</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-detailed-engine">Detailed engineering</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-technical-assis">Technical assistance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-847"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-project-managem">Project management services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Foil-gas%252Foil-gas-asset-managemen">Asset Management</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-758"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Frenewable%252F&amp;_wpnonce=4841db67e0">Renewables</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Frenewable%252F&amp;_wpnonce=4841db67e0">Renewables</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Frenewable%252Frenewable-asset-manag">Renewables Activities</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2812"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Flow-carbon%252F&amp;_wpnonce=4841db67e0">Low carbon</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-823"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252F&amp;_wpnonce=4841db67e0">Expertise</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252F&amp;_wpnonce=4841db67e0">Expertise</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-840"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fprocess-and-safety%252F">Process and Safety</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fproduction-equipment%25">Production Equipment</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-842"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fstructures%252F&amp;_wpnonc">Structures</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-843"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fsubsea-production%252F&amp;">Subsea production</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-839"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fdesign-and-drafting%252">Design and drafting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1464"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Finspection-maintenanc">Inspection, Maintenance &#038; Repair</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1472"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Ftransport-installatio">Transport &#038; Installation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fconstruction-installa">Construction &#038; Installation Supervision</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1538"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fmodel-testing%252F&amp;_wpn">Model Testing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1539"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fexpertise%252Fcoastal-engineering%252">Coastal Engineering</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2816"><a href="projet/projects/index.html">Projects</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-515"><a href="category/news/index.html">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fglobale-presence%252F&amp;_wpnonce=4841">Global presence</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="index.html?p=405">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-628 current_page_item menu-item-825"><a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">Careers</a></li>
+</ul></div>				</nav>
+						<!-- /.nav -->
+
+			<div class="footer-bottom">
+				<div class="social">
+					<ul id="menu-social">Follow us<li><a href="https://fr.linkedin.com/company/doris-engineering" class="linkedin"><span>linkedin</span> </a></li></ul>				</div>
+				<div class="copyright">
+					<p>© Copyright 2019 <a href="index.html" rel="home">Doris g</a>roup | Web site by <a class="imprint" href="https://www.lemon-interactive.fr/">Lemon Interactive </a>| All Rights Reserved | <a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Flegal-notice%252F&amp;_wpnonce=4841db67">Legal</a> &#8211; <a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fconfidentiality-policy%252F&amp;_wpnonc">Confidentiality policy</a></p>
+				</div>
+			</div>
+		</div>
+	</footer>
+<!-- .site-footer -->
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<div class="gdpr gdpr-overlay"></div>
+<div class="gdpr gdpr-privacy-bar" style="display:none;">
+	<div class="gdpr-wrapper">
+		<div class="gdpr-content">
+			<p>This website uses cookies<br />
+We inform you that this site uses own, technical and third parties cookies to make sure our web page is user-friendly and to guarantee a high functionality of the webpage. By continuing to browse this website, you declare to accept the use of cookies. <a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fconfidentiality-policy%252F&amp;_wpnonc">Confidentiality Policy</a></p>
+		</div>
+		<div class="gdpr-right">
+						<div class="gdpr-buttons">
+				<button class="gdpr-preferences" type="button">Privacy Preferences</button>
+				<button class="gdpr-agreement" type="button">I Agree</button>
+			</div>
+			<span class="gdpr-close"></span>
+		</div>
+	</div>
+</div>
+
+<div class="gdpr gdpr-privacy-preferences">
+	<div class="gdpr-wrapper">
+		<form method="post" class="gdpr-privacy-preferences-frm">
+			<input type="hidden" name="action" value="gdpr_update_privacy_preferences">
+			<input type="hidden" id="update-privacy-preferences-nonce" name="update-privacy-preferences-nonce" value="f25bd03a77" /><input type="hidden" name="_wp_http_referer" value="/careers/" />			<header>
+				<div class="gdpr-box-title">
+					<h3>Privacy Preference Center</h3>
+					<span class="gdpr-close"></span>
+				</div>
+			</header>
+			<div class="gdpr-mobile-menu">
+				<button type="button">Options</button>
+			</div>
+			<div class="gdpr-content">
+				<div class="gdpr-tabs">
+					<ul class="">
+						<li><button type="button" class="gdpr-tab-button gdpr-active" data-target="gdpr-consent-management">Consent Management</button></li>
+																			<li><button type="button" class="gdpr-tab-button gdpr-cookie-settings" data-target="necessary">Cookie Settings</button>
+								<ul class="gdpr-subtabs">
+									<li><button type="button" data-target="analytics" >Analytics</button></li>								</ul>
+							</li>
+											</ul>
+					<ul class="gdpr-policies">
+											</ul>
+				</div>
+				<div class="gdpr-tab-content">
+					<div class="gdpr-consent-management gdpr-active">
+						<header>
+							<h4>Consent Management</h4>
+						</header>
+						<div class="gdpr-info">
+							<p></p>
+													</div>
+					</div>
+																<div class="necessary">
+							<header>
+								<h4>Necessary</h4>
+							</header><!-- /header -->
+							<div class="gdpr-info">
+								<p></p>
+																							</div>
+						</div>
+											<div class="advertising">
+							<header>
+								<h4>Advertising</h4>
+							</header><!-- /header -->
+							<div class="gdpr-info">
+								<p></p>
+																							</div>
+						</div>
+											<div class="analytics">
+							<header>
+								<h4>Analytics</h4>
+							</header><!-- /header -->
+							<div class="gdpr-info">
+								<p>Collects navigation data on the site</p>
+																	<div class="gdpr-cookies-used">
+										<div class="gdpr-cookie-title">
+											<p>Cookies Used</p>
+																																		
+												<label class="gdpr-switch">
+													<input type="checkbox" class="gdpr-cookie-category" data-category="analytics" name="approved_cookies[]" value="[&quot;_ga&quot;,&quot;_gat_UA-138076199-1&quot;,&quot;_gid&quot;]"  checked='checked'>
+													<span class="gdpr-slider round"></span>
+													<span class="gdpr-switch-indicator-on">ON</span>
+													<span class="gdpr-switch-indicator-off">OFF</span>
+												</label>
+																					</div>
+										<div class="gdpr-cookies">
+											<span>_ga,_gat_UA-138076199-1,_gid</span>
+										</div>
+									</div>
+																							</div>
+						</div>
+											<div class="other">
+							<header>
+								<h4>Other</h4>
+							</header><!-- /header -->
+							<div class="gdpr-info">
+								<p></p>
+																							</div>
+						</div>
+									</div>
+				<input type="hidden" name="all_cookies" value="[&quot;_ga&quot;,&quot;_gat_UA-138076199-1&quot;,&quot;_gid&quot;]">
+			</div>
+			<footer>
+				<input type="submit" value="Save Preferences">
+			</footer>
+		</form>
+	</div>
+</div>
+
+<div class="gdpr gdpr-general-confirmation">
+	<div class="gdpr-wrapper">
+		<header>
+			<div class="gdpr-box-title">
+				<h3></h3>
+				<span class="gdpr-close"></span>
+			</div>
+		</header>
+		<div class="gdpr-content">
+			<p></p>
+		</div>
+		<footer>
+			<button class="gdpr-ok">OK</button>
+		</footer>
+	</div>
+</div>
+    <div class="jobsearch-modal fade" id="JobSearchModalApplyJobWarning">
+        <div class="modal-inner-area">&nbsp;</div>
+        <div class="modal-content-area">
+            <div class="modal-box-area">
+                <span class="modal-close"><i class="fa fa-times"></i></span>
+                <div class="jobsearch-send-message-form">
+                    <div class="send-message-warning">
+                        <span>Required &#039;Candidate&#039; login for apply this job. </span>  
+                        <span>Click here to <a href="./wp-login.php?action=logout&amp;redirect_to=https:%252F%252Fwww.dorisgroup.com%252Fcareers%252F&amp;_wpnonce=4841db67e0">logout</a> </span>
+                        <span>And try again </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                <div class="jobsearch-modal jobsearch-typo-wrap fade" id="JobSearchModalLogin">
+                <div class="modal-inner-area">&nbsp;</div>
+                <div class="modal-content-area">
+                    <div class="modal-box-area">
+                                <div class="login-form-3652879">
+            <div class="jobsearch-modal-title-box">
+                <h2>Login to your account</h2>
+                <span class="modal-close"><i class="fa fa-times"></i></span>
+            </div>
+            <form id="login-form-3652879" action="index.html" method="post">
+                                <div class="jobsearch-user-form">
+                    <ul> 
+                        <li> 
+                            <label>Username/Email Address:</label>
+                            <input class="required" name="pt_user_login" type="text" placeholder="Username" />
+                            <i class="jobsearch-icon jobsearch-user"></i>
+                        </li>
+                        <li> 
+                            <label>Password:</label>
+                            <input class="required" name="pt_user_pass" type="password" placeholder="Password">
+                            <i class="jobsearch-icon jobsearch-multimedia"></i>
+                        </li>
+                        <li class="jobsearch-user-form-coltwo-full">
+                            <input type="hidden" name="action" value="jobsearch_login_member_submit">
+                            <input type="hidden" name="current_page_id" value="628">
+                                                        <input data-id="3652879" class="jobsearch-login-submit-btn" data-loading-text="Loading..." type="submit" value="Sign In">
+                            <div class="form-loader"></div>
+                            <div class="jobsearch-user-form-info">
+                                <p><a href="javascript:void(0);" class="lost-password" data-id="3652879">Forgot Password?</a> | <a href="javascript:void(0);" class="register-form" data-id="3652879">Sign Up</a></p>
+                                <div class="jobsearch-checkbox">
+                                    <input type="checkbox" id="r-3652879" name="remember_password">
+                                    <label for="r-3652879"><span></span> Remember Password</label>
+                                </div>
+                            </div>
+                                                    </li>
+                                            </ul>
+                    <input type="hidden" name="login-security" value="ac3a9418c5" /><input type="hidden" name="_wp_http_referer" value="/careers/" />                    <div class="login-reg-errors"></div>
+                </div>
+                                    <div class="jobsearch-box-title jobsearch-box-title-sub">
+                        <span>Or Sign In With</span>
+                    </div>
+                    <div class="clearfix"></div>
+                    <ul class="jobsearch-login-media">
+                        <li><a class="jobsearch-facebook-bg" href="https://www.facebook.com/v2.10/dialog/oauth?client_id=549930082020987&#038;state=bd7ca95dd189153a773687d184b7a22e&#038;response_type=code&#038;sdk=php-sdk-5.6.1&#038;redirect_uri=https%3A%2F%2Fwww.dorisgroup.com%2Fwp-admin%2Fadmin-ajax.php%3Faction%3Djobsearch_facebook&#038;scope=email"><i class="fa fa-facebook"></i>Login with Facebook</a></li><li><a class="jobsearch-twitter-bg" data-original-title="twitter" href="https://www.dorisgroup.com/wp-admin/admin-ajax.php?action=jobsearch_twitter"><i class="fa fa-twitter"></i>Login with Twitter</a></li><li><a class="jobsearch-google-plus-bg" data-original-title="google" href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=https%3A%2F%2Fwww.dorisgroup.com%2F&client_id=640974702907-u0jjnk30c771rv8je1sq5bt4db2j39vp.apps.googleusercontent.com&scope=email&access_type=online&approval_prompt=auto"><i class="fa fa-google-plus"></i>Login with Google</a></li><li><a class="jobsearch-linkedin-bg" href="https://www.linkedin.com/uas/oauth2/authorization?client_id=861gpcgf55y9hq&redirect_uri=https%3A%2F%2Fwww.dorisgroup.com%2F%3Faction%3Dlinkedin_login&response_type=code&scope=r_basicprofile+r_emailaddress&state=VucDT4PRvtG6" data-original-title="linkedin"><i class="fa fa-linkedin"></i>Login with Linkedin</a></li>                    </ul>
+                                </form>
+        </div>
+        <div class="jobsearch-reset-password reset-password-3652879" style="display:none;">
+
+            <div class="jobsearch-modal-title-box">
+                <h2>Reset Password</h2>
+                <span class="modal-close"><i class="fa fa-times"></i></span>
+            </div>
+
+            <form id="reset-password-form-3652879" action="index.html" method="post">
+                <div class="jobsearch-user-form">
+                    <ul>
+                        <li class="jobsearch-user-form-coltwo-full">
+                            <label>Username/Email Address:</label>
+                            <input id="pt_user_or_email_3652879" class="required" name="pt_user_or_email" type="text" placeholder="Username or E-mail" />
+                            <i class="jobsearch-icon jobsearch-mail"></i>
+                        </li>
+                        <li class="jobsearch-user-form-coltwo-full">
+                            <input type="hidden" name="action" value="jobsearch_reset_password"/>
+                            <input data-id="3652879" class="jobsearch-reset-password-submit-btn" type="submit" value="Get new password">
+
+                            <div class="form-loader"></div>
+                            <div class="jobsearch-user-form-info">
+                                <p><a href="javascript:void(0);" class="login-form-btn" data-id="3652879">Already have an account? Login</a></p>
+                            </div>
+                        </li>
+                    </ul>
+
+                    <p>Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.</p>
+
+                    <input type="hidden" name="password-security" value="ac3a9418c5" /><input type="hidden" name="_wp_http_referer" value="/careers/" />                    <div class="reset-password-errors"></div>
+                </div>
+            </form>
+
+        </div>
+                    <div class="jobsearch-register-form register-3652879" style="display:none;">
+                <div class="jobsearch-modal-title-box">
+                    <h2>Signup to your Account</h2>
+                    <span class="modal-close"><i class="fa fa-times"></i></span>
+                </div>
+                <form id="registration-form-3652879" action="index.html" method="POST" enctype="multipart/form-data">
+                                            <div class="jobsearch-box-title">
+                            <span>Choose your Account Type</span>
+                            <input type="hidden" name="pt_user_role" value="jobsearch_candidate">
+                        </div>
+                        <div class="jobsearch-user-options">
+                            <ul class="jobsearch-user-type-choose">
+                                <li class="active">
+                                    <a href="javascript:void(0);" class="user-type-chose-btn" data-type="jobsearch_candidate">
+                                        <i class="jobsearch-icon jobsearch-user"></i>
+                                        <span>Candidate</span>
+                                        <small>I want to discover awesome companies.</small>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0);" class="user-type-chose-btn" data-type="jobsearch_employer">
+                                        <i class="jobsearch-icon jobsearch-building"></i>
+                                        <span>Employer</span>
+                                        <small>I want to attract the best talent.</small>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                                            <div class="jobsearch-user-form jobsearch-user-form-coltwo">
+                        <ul>
+                                                        <li>
+                                <label>Username *</label>
+                                <input class="required" name="pt_user_login" type="text" placeholder="Username" />
+                                <i class="jobsearch-icon jobsearch-user"></i>
+                            </li>
+                            <li>
+                                <label>Email Address *</label>
+                                <input class="required" name="pt_user_email" id="pt_user_email_3652879" type="email" placeholder="Email" />
+                                <i class="jobsearch-icon jobsearch-mail"></i>
+                            </li>
+                                                            <li>
+                                    <label>Password *</label>
+                                    <input class="required" name="pt_user_pass" id="pt_user_pass_3652879" type="password" placeholder="Password" />
+                                    <i class="jobsearch-icon jobsearch-multimedia"></i>
+                                </li>
+                                <li>
+                                    <label>Confirm Password *</label>
+                                    <input class="required" name="pt_user_cpass" id="pt_user_cpass_3652879" type="password" placeholder="Confirm Password" />
+                                    <i class="jobsearch-icon jobsearch-multimedia"></i>
+                                </li>
+                                                                <li class="jobsearch-user-form-coltwo-full">
+                                    <label>Phone:</label>
+                                    <input class="required" name="pt_user_phone" id="pt_user_phone_3652879" type="text" placeholder="Phone Number" />
+                                    <i class="jobsearch-icon jobsearch-technology"></i>
+                                </li>
+                                                                <li class="user-employer-spec-field jobsearch-user-form-coltwo-full" style="display: none;">
+                                    <label>Organization Name:</label>
+                                    <input class="required" name="pt_user_organization" id="pt_user_organization_3652879" type="text" placeholder="Organization Name" />
+                                    <i class="jobsearch-icon jobsearch-briefcase"></i>
+                                </li>
+                                                                <li class="jobsearch-user-form-coltwo-full jobsearch-regfield-sector">
+                                    <label>Select Sector:</label>
+                                    <div class="jobsearch-profile-select">
+                                        <select  name='pt_user_category' id='pt_user_category_3652879' class='postform selectize-select' >
+	<option value='0'>Select Sector</option>
+	<option class="level-0" value="71">Oil and Energy</option>
+	<option class="level-0" value="73">type 2</option>
+</select>
+                                    </div>
+                                    <script>
+                                        jQuery('#pt_user_category_3652879').find('option').first().val('');
+                                        jQuery('#pt_user_category_3652879').attr('placeholder', 'Select Sector');
+                                    </script>
+                                </li>
+                                                                <li class="jobsearch-user-form-coltwo-full">
+                                    <script>
+                                        var recaptcha_popup;
+                                        var jobsearch_multicap = function () {
+                                            //Render the recaptcha_popup on the element with ID "recaptcha_popup"
+                                            recaptcha_popup = grecaptcha.render('recaptcha_popup', {
+                                                'sitekey': '6LdCfA8TAAAAALpASzPN3k6DBEIwxdXgRxTmlUjs', //Replace this with your Site key
+                                                'theme': 'light'
+                                            });
+                                        };
+                                        jQuery(document).ready(function () {
+                                            jQuery('.recaptcha-reload-a').click();
+                                        });
+                                    </script>
+                                    <div class="recaptcha-reload" id="recaptcha_popup_div">
+                                        <div class="g-recaptcha" data-theme="light" id="recaptcha_popup" data-sitekey="6LdCfA8TAAAAALpASzPN3k6DBEIwxdXgRxTmlUjs"></div> <a class="recaptcha-reload-a" href="javascript:void(0);" onclick="jobsearch_captcha_reload('https://www.dorisgroup.com/wp-admin/admin-ajax.php', 'recaptcha_popup');"><i class="fa fa-refresh"></i> Reload</a>                                    </div>
+                                </li>
+                                                            <li class="jobsearch-user-form-coltwo-full">
+                                                                <input type="hidden" name="action" value="jobsearch_register_member_submit">
+                                <input data-id="3652879" class="jobsearch-register-submit-btn" data-loading-text="Loading..." type="submit" value="Sign up">
+
+                                <div class="form-loader"></div>
+
+                                <div class="jobsearch-user-form-info">
+                                    <p><a href="javascript:void(0);" class="reg-tologin-btn" data-id="3652879">Already have an account? Login</a></p>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="clearfix"></div>
+
+                        <input type="hidden" name="register-security" value="ac3a9418c5" /><input type="hidden" name="_wp_http_referer" value="/careers/" />                        <div class="registration-errors"></div>
+                    </div>
+                                        <div class="jobsearch-box-title jobsearch-box-title-sub">
+                        <span>Or Sign In With</span>
+                    </div>
+                    <div class="clearfix"></div>
+                    <ul class="jobsearch-login-media">
+                        <li><a class="jobsearch-facebook-bg" href="https://www.facebook.com/v2.10/dialog/oauth?client_id=549930082020987&#038;state=bd7ca95dd189153a773687d184b7a22e&#038;response_type=code&#038;sdk=php-sdk-5.6.1&#038;redirect_uri=https%3A%2F%2Fwww.dorisgroup.com%2Fwp-admin%2Fadmin-ajax.php%3Faction%3Djobsearch_facebook&#038;scope=email"><i class="fa fa-facebook"></i>Login with Facebook</a></li><li><a class="jobsearch-twitter-bg" data-original-title="twitter" href="https://www.dorisgroup.com/wp-admin/admin-ajax.php?action=jobsearch_twitter"><i class="fa fa-twitter"></i>Login with Twitter</a></li><li><a class="jobsearch-google-plus-bg" data-original-title="google" href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=https%3A%2F%2Fwww.dorisgroup.com%2F&client_id=640974702907-u0jjnk30c771rv8je1sq5bt4db2j39vp.apps.googleusercontent.com&scope=email&access_type=online&approval_prompt=auto"><i class="fa fa-google-plus"></i>Login with Google</a></li><li><a class="jobsearch-linkedin-bg" href="https://www.linkedin.com/uas/oauth2/authorization?client_id=861gpcgf55y9hq&redirect_uri=https%3A%2F%2Fwww.dorisgroup.com%2F%3Faction%3Dlinkedin_login&response_type=code&scope=r_basicprofile+r_emailaddress&state=MJcUwUarKvnI" data-original-title="linkedin"><i class="fa fa-linkedin"></i>Login with Linkedin</a></li>                    </ul>
+                                    </form>
+            </div>
+                                </div>
+                </div>
+            </div>
+            
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57MJRTH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type='text/javascript'>
+/* <![CDATA[ */
+var jobsearch_plugin_vars = {"plugin_url":"https:\/\/www.dorisgroup.com\/wp-content\/plugins\/wp-jobsearch\/","ajax_url":"https:\/\/www.dorisgroup.com\/wp-admin\/admin-ajax.php","careerfy_theme_color":"#13b5ea","sel_countries_json":"","com_img_size":"Image size should not greater than 1 MB.","com_file_size":"File size should not greater than 1 MB.","cv_file_types":"Suitable files are .doc,.docx,.pdf","com_word_title":"Title","see_less_txt":"- see less","see_more_txt":"+ see more","com_word_description":"Description","com_word_save":"Save","error_msg":"There is some problem.","shortlisted_str":"Shortlisted","select_sector":"Select Sector","loading":"Loading...","accpt_terms_cond":"Please accept our terms and conditions.","var_address_str":"Address","var_other_locs_str":"Other Locations"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/jobsearch-plugin.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/jobsearch-common.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/fancybox.pack.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/selectize.min.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/moment.min.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/fullcalendar.min.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/jquery.datetimepicker.full.min.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/job-functions.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/employer-functions.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/candidate-functions.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/morris.js?ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/js/raphael-min.js?ver=1.2.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.dorisgroup.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDt3WTJyH0LYPEKo3xQq9qT9h2bfnOZlbk&#038;ver=20181230'></script>
+<script type='text/javascript' src='https://cdn.rawgit.com/googlemaps/v3-utility-library/master/markerclustererplus/src/markerclusterer.js?ver=20181230'></script>
+<script type='text/javascript' src='wp-content/themes/dorislemon/assets/js/main.min.js?ver=20181230'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jobsearch_shortlist_vars = {"admin_url":"https:\/\/www.dorisgroup.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.dorisgroup.com\/wp-content\/plugins\/wp-jobsearch\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/modules/shortlist/assets/js/shortlist-functions.js?ver=4.9.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jobsearch_customfield_common_vars = {"plugin_url":"https:\/\/www.dorisgroup.com\/wp-content\/plugins\/wp-jobsearch\/","ajax_url":"https:\/\/www.dorisgroup.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/modules/custom-fields/js/custom-field-functions.js?ver=4.9.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jobsearch_job_application = {"admin_url":"https:\/\/www.dorisgroup.com\/wp-admin\/admin-ajax.php","error_msg":"There is some error.","confirm_msg":"jobsearch_job_application_conform_msg","com_img_size":"Image size should not greater than 1 MB.","com_file_size":"File size should not greater than 1 MB.","cv_file_types":"Suitable files are .doc,.docx,.pdf"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/modules/job-application/assets/js/job-application-functions.js?ver=4.9.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jobsearch_login_register_common_vars = {"plugin_url":"https:\/\/www.dorisgroup.com\/wp-content\/plugins\/wp-jobsearch\/","ajax_url":"https:\/\/www.dorisgroup.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/wp-jobsearch/modules/login-registration/js/login-registration.js?ver=4.9.9'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?onload=jobsearch_multicap_all_functions&#038;render=explicit&#038;ver=1.2.7'></script>
+<script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=2.5.11'></script>
+<script type='text/javascript' src='wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.4.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.dorisgroup.com\/wp-admin\/admin-ajax.php","nonce":"00ec7a49dc","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"fr_FR","app_id":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.4.5'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":907,"lg":1025,"xl":1440,"xxl":1600},"version":"2.5.11","urls":{"assets":"https:\/\/www.dorisgroup.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":628,"title":"Careers","excerpt":""}};
+</script>
+<script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.5.11'></script>
+</body>
+</html>
+				
+    

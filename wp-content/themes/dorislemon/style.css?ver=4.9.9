@@ -1,0 +1,98 @@
+/*
+Theme Name: Doris Lemon
+Theme URI: https://lemoni.fr/
+Author: lemoni
+Author URI: https://lemoni.fr/
+Text Domain: dorislemon
+*/
+
+@import "assets/css/main.css";
+
+.bg_opacity{
+	background: #aaa;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+}
+
+/**
+Formulaire de contact
+ */
+.form-row{
+    display:flex;
+    justify-content: flex-start
+}
+
+.form-item-xsm{
+   width: 24.9999%;
+}
+
+.form-item-sm{
+    width: 49.9999%;
+}
+
+.form .form-item-xsm+.form-item-xsm{
+    margin-left: 0%;
+}
+
+.form .form-item-xsm {
+    width: 33.33%
+}
+
+.form .form-row .form-item {
+    padding: 10px;
+}
+
+.form .form-row.space{
+    margin-top: 20px
+}
+
+.form .form-row label{
+    display: block;
+}
+
+
+span.wpcf7-list-item{
+    margin : 0px;
+}
+
+div.wpcf7-validation-errors, div.wpcf7-acceptance-missing, div.wpcf7-mail-sent-ok{
+    clear: both;
+    margin-top: 15px;
+}
+
+.form .form-actions{
+    margin-bottom: 15px;
+}
+
+#form-contain-full{
+    width: 75%;
+    display: block;
+    margin: auto;
+}
+
+@media (max-width: 860px){
+    .form-row{
+        display:flex;
+        flex-direction: column;
+    }
+
+    .form-item-xsm{
+        width: 100% !important;
+        padding: 10px;
+    }
+
+    .form-row .form-grid:nth-child(2){
+        margin-top: 20px !important;
+    }
+
+    .form-grid{
+        width: 93% !important;
+    }
+
+    #form-contain-full, #form-contain-full .form-item-sm, #form-contain-full .form-item-md{
+        width: 100%;
+        margin: 1% 0;
+    }
+}
