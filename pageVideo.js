@@ -1,7 +1,7 @@
 
     function getCompoVideo() {
         var s = 
-          '<div id="Acc" style="width: 100%; height: 80%;">'
+          '<div id="Acc" style="width: 100%; ">'
         +  ' <video id="myVideo" autoplay muted loop >'
         +  '    <source src="res/Movie_combined_harat_Trim.mp4" type="video/mp4">'
         +   '   Your browser does not support HTML5 video.'
