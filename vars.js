@@ -1,4 +1,4 @@
-var title = 'DR N BENKARI';
+var title = 'Nabil DJELLALI';
 var imagesPages = {
     page1: {
        label : 'News',

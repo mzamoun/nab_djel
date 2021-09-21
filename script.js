@@ -1,5 +1,5 @@
 site='file:///home/mourad/data/pro/projets_html/dr-n-benkari/'
-title='DR N BENKARI';
+title='Nabil Djellali';
 
     function gotoUrl(site) {
         //location.replace(site)
