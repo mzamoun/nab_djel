@@ -7,27 +7,35 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
+    
     <script src="script.js"></script> 
     <script src="pageSlide.js"></script> 
     <script src="pageVideo.js"></script> 
+    <script src="menu.js"></script> 
+    <script src="acceuil.js"></script> 
+
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="doris.css">
 
   </head>
 <body>
 
-  <div id="Menu" style="width: 100%; min-height: 20%;">
+  <div id="Menu" class="menubar">
 
     <!-- https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_navbar_collapse -->
-    <nav class="navbar navbar-inverse">
-      <div class="container-fluid" style="background-color: steelblue; min-height: 20%;">
+    <nav class="navbar ">
+      <div class="" >
 
-        <div class="navbar-header" >
+        <div class="" >
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>                        
           </button>
-          <div id="btnAcceuil" class="navbar-brand btnAcceuil" onclick="showAcc();" >Acceuil </div>
+          
+          <img src="res/gaz_petrol.jpg" alt="" class="btnAcc"  onclick="showAcc();">
+            
+          </div>
         </div>
 
         <div class="collapse navbar-collapse navbar-right" id="myNavbar">
@@ -46,17 +54,18 @@
 
   </div>
 
-  <div id="page" style="min-width: 100%; min-height: 100%;"></div>
+  <div id="page" class="page"></div>
 
 <script>
 
-loadDiv('#menusPages', getCompoMenus() );  
+// loadDiv('#menusPages', getCompoMenus() );  
+
+showMenus();
 
 showAcc();
 
 $( window ).resize(function() {
   resizePage();
-
 });
 
 </script>

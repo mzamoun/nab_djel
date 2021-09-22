@@ -1,9 +1,12 @@
 
     function getCompoVideo() {
+      // var src="res/Movie_combined_harat_Trim.mp4"
+       var src="https://www.dorisgroup.com/wp-content/uploads/2019/05/DORIS-LQ-1.mp4";
+
         var s = 
           '<div id="Acc" style="width: 100%; ">'
         +  ' <video id="myVideo" autoplay muted loop >'
-        +  '    <source src="res/Movie_combined_harat_Trim.mp4" type="video/mp4">'
+        +  '    <source src="'+src+'" type="video/mp4">'
         +   '   Your browser does not support HTML5 video.'
         + '  </video> '
         + '  <div id="content" class="content">'
@@ -34,28 +37,9 @@
       return s;
     }
 
-    function getCompoMenus() {
-
-        var btns = '';
-        for (var i=0; i<pagesObj.length; i++) {
-            var p = pagesObj[i];
-            var label = imagesPages[p].label;
-           // console.log(label);
-            btns = btns + ' <li class="active"> <button id="btnMenu_"' + p +'" class="btnMenu" onclick="showPage(\''+p+'\');" >'+label+'</button> </li>';
-        }
-        btns = btns + ' <li > <button id="btnRegister" class="btnMenu" onclick="register()" >Register</button> </li> ';
-
-        var s = btns ;   
-      
-        return s;
-        
-    }    
+   
 
         //////////
-    function showAcc() {
-        loadDiv('#page', getCompoVideo()) ;
-    }
-
 
   function onPause() {
     var video = document.getElementById("myVideo");
