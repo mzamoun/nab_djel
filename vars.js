@@ -1,3 +1,4 @@
+
 var title = 'Nabil DJELLALI';
 var imagesPages = {
     page1: {
@@ -26,4 +27,5 @@ var playFromBtn = false;
 
 var idDivImg='#divImg';
 var idImg = '#img';
+
 

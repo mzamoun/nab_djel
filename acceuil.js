@@ -98,53 +98,63 @@ function showSection2() {
     
 }
 isAcc = false;
+var tabSections = [ showSection1() ,  showSection2() ];
+// Variable to hold the current section index
+var currentIndex = 0;
+var pageIndex = 0;
+
+function onscroll(event) {
+    // console.log("onscroll event:", event)
+    event.preventDefault();
+    if(!isAcc) return;
+    // Get the mouse wheel spin direction
+    var direction = event.deltaY;
+    // console.log("direction="+direction)
+
+    if (direction > 0) {
+        // Go to next
+        // Increase the section pointer
+        currentIndex++;
+    } else {
+        // Go to prev
+        // Decrease the section pointer
+        currentIndex--;
+        // Get the previous section
+    }
+
+    if(currentIndex<0) currentIndex = 0;
+    else if(currentIndex>tabSections.length-1) currentIndex = tabSections.length-1;
+
+    if(currentIndex != pageIndex) {
+        var id="#page";
+        $(id).fadeOut(100);
+        loadDiv(id, tabSections[currentIndex]) ;
+        // $(id).fadeIn(1700);
+        $(id).fadeIn("slow");
+        pageIndex = currentIndex;
+    }
+}
+
 function showAcc() {
     isAcc = true;
-    var tabSections = [ showSection1() ,  showSection2() ];
+    var idPage = "#page"
 
-    // Variable to hold the current section index
-    var currentIndex = 0;
-    var pageIndex = 0;
-
-    loadDiv('#page', tabSections[currentIndex]) ;
-
-    // Define wheel event handler
-    document.addEventListener(
-        "wheel",
-        function(event) {
-            if(!isAcc) return;
-            // Get the mouse wheel spin direction
-            var direction = event.deltaY;
-            console.log("direction="+direction)
-
-            if (direction > 0) {
-                // Go to next
-                // Increase the section pointer
-                currentIndex++;
-            } else {
-                // Go to prev
-                // Decrease the section pointer
-                currentIndex--;
-                // Get the previous section
-            }
-
-            if(currentIndex<0) currentIndex = 0;
-            else if(currentIndex>tabSections.length-1) currentIndex = tabSections.length-1;
-
-            if(currentIndex != pageIndex) {
-                var id="#page";
-                $(id).hide();
-                loadDiv(id, tabSections[currentIndex]) ;
-                // $(id).fadeIn(1700);
-                $(id).fadeIn("slow");
-                pageIndex = currentIndex;
-            }
-
-        },
-        { passive: false }
-    );
-    
-    loadDiv('#page', html) ;
+    if(IS_MOBILE) {
+        var html = '<div id="acceuil" class="acceuil" > <br>';
+        for(var i = 0; i<tabSections.length; i++) {
+            html += tabSections[i] + '<br>';
+        }
+        loadDiv(idPage, html) ;
+    }else {
+        currentIndex=0;
+        loadDiv(idPage, tabSections[currentIndex]) ;
+        document.addEventListener(        "wheel",
+            function(event) {
+                onscroll(event);
+            },
+            { passive: false }
+        );
+    }
 
 }
 
