@@ -98,7 +98,7 @@ function showSection2() {
     
 }
 isAcc = false;
-var tabSections = [ showSection1() ,  showSection2() ];
+var tabSections = [ "IS_MOBILE="+IS_MOBILE, showSection1() ,  showSection2() ];
 // Variable to hold the current section index
 var currentIndex = 0;
 var pageIndex = 0;
