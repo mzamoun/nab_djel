@@ -4,7 +4,7 @@ function showSection1() {
     // loadDiv('#page', getCompoVideo()) ;
 
     var html = `
-    <section id="section1" class="section section-video" data-section-name="01">
+    <div id="section1" class="section section-video" data-section-name="01">
     <video class="background-video" poster="https://www.dorisgroup.com/wp-content/uploads/2019/04/cover.jpg" id="bgvid" playsinline autoplay muted loop>
 		<source src="https://www.dorisgroup.com/wp-content/uploads/2019/05/DORIS-LQ-1.mp4" type="video/mp4">
 	</video>
@@ -17,7 +17,7 @@ function showSection1() {
         
     </article>
     <!-- /.cover -->
-</section>
+</div>
     `;
 
     return html;
@@ -28,7 +28,7 @@ function showSection2() {
     // loadDiv('#page', getCompoVideo()) ;
 
     var html = `
-    <section id="section2" class="section section-covers" data-section-name="02">
+    <div id="section2" class="section section-covers" data-section-name="02">
     <div class="covers">
         <article class="cover cover-md" style="background-image: url('https://www.dorisgroup.com/wp-content/uploads/2019/03/oil-gas.gif');">
             <a href="oil-gas/" data-animation-type="fadeInRight" class="cover-link"></a>
@@ -91,25 +91,25 @@ function showSection2() {
         <!-- /.wrap -->
     </div>
     <!-- /.expertise -->
-</section>
+</div>
     `;
 
     return html;
     
 }
-isAcc = false;
-var tabSections = [ "IS_MOBILE="+IS_MOBILE, showSection1() ,  showSection2() ];
+
+var tabSections = [ showSection1() ,  showSection2() ];
 // Variable to hold the current section index
 var currentIndex = 0;
 var pageIndex = 0;
 
-function onscroll(event) {
-    // console.log("onscroll event:", event)
-    event.preventDefault();
+function onscroll(direction) {
+
+    var acc = $("#acceuil");
+    var isAcc = false;
+    if(acc) isAcc = true; 
+    
     if(!isAcc) return;
-    // Get the mouse wheel spin direction
-    var direction = event.deltaY;
-    // console.log("direction="+direction)
 
     if (direction > 0) {
         // Go to next
@@ -127,7 +127,7 @@ function onscroll(event) {
 
     if(currentIndex != pageIndex) {
         var id="#page";
-        $(id).fadeOut(100);
+        // $(id).fadeOut(100);
         loadDiv(id, tabSections[currentIndex]) ;
         // $(id).fadeIn(1700);
         $(id).fadeIn("slow");
@@ -144,16 +144,26 @@ function showAcc() {
         for(var i = 0; i<tabSections.length; i++) {
             html += tabSections[i] + '<br>';
         }
+        html += '</div>'
         loadDiv(idPage, html) ;
     }else {
         currentIndex=0;
         loadDiv(idPage, tabSections[currentIndex]) ;
-        document.addEventListener(        "wheel",
+        document.addEventListener("wheel",
             function(event) {
-                onscroll(event);
+                event.preventDefault();
+                onscroll(event.deltaY);
             },
             { passive: false }
         );
+
+        $(document).keyup(function(event) {
+            // if (event.code == "ARROWDOWN") {direction = 1;}  //keyCode = 40
+            // if (event.code == "ARROWUP") direction = -1;     //keyCode = 38
+
+            onscroll(event.keyCode - 39);
+        });
+
     }
 
 }
