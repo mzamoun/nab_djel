@@ -18,10 +18,10 @@ body {
 
 .btnAcc {
   position: fixed;
+  float: center; 
   z-index: 1100;
   height: 10%; 
   width: 10%; 
-  float: left; 
   cursor: pointer;
   /* top : 1%;
   left : 1%; */
